@@ -14,7 +14,7 @@ def fizzbuzz1(lower_limit, upper_limit):
         if i == 42:
             print("Answer to the Ultimate Question of Life, the Universe, and Everything")
         elif (i == 42) is False:
-            print(message)
+            print(message) #test för att se om collaboration funkar
 
 
 def fizzbuzz2(lower_limit, upper_limit):
