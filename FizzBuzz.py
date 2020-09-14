@@ -12,7 +12,7 @@ for i in range(1,101):
     if i == 42:
         print("Answer to the Ultimate Question of Life, the Universe, and Everything")
     elif (i == 42) is False:
-        print (x)
+        print(x)
         
 if __name__ == "__main__":
     main()
